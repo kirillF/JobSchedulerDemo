@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Job Scheduler Demo</string>
+
+    <string name="schedule_job">Schedule job</string>
+    <string name="description">Schedules job execution with 1 second delay and 2 seconds deadline</string>
+</resources>
