@@ -18,7 +18,7 @@
         android:text="@string/description"/>
 
     <Button
-        android:id="@+id/schedule_job_button"
+        android:id="@+id/scheduleJobButton"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_below="@+id/description"
